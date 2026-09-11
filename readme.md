@@ -2,7 +2,7 @@
 
 ## ရည်ရွယ်ချက်
 
-ဒီ course က English စာကို သိရုံမဟုတ်ဘဲ **နားထောင်ပြီး လူတစ်ယောက်နဲ့ အကြောင်းအရာမျိုးစုံကို တကယ်ကြာကြာ ပြောနိုင်ရန်** ရည်ရွယ်သည်။ အထူးသဖြင့် သင်ယူနှုန်းနှေးလာနိုင်သော လူကြီးများအတွက် Burmese scaffolding, အဆင့်သေးသေး၊ ထပ်ခါတလဲလဲလေ့ကျင့်မှု၊ audio/shadowing၊ retrieval practice နဲ့ အရှက်မရှိဘဲ ပြန်စနိုင်သော review path ကို သုံးထားသည်။
+ဒီ course က English စာကို သိရုံမဟုတ်ဘဲ **နားထောင်ပြီး လူတစ်ယောက်နဲ့ အကြောင်းအရာမျိုးစုံကို တကယ်ကြာကြာ ပြောနိုင်ရန်** ရည်ရွယ်သည်။ အထူးသဖြင့် သင်ယူနှုန်းနှေးလာနိုင်သော လူကြီးများအတွက် Burmese scaffolding, အဆင့်သေးသေး၊ ထပ်ခါတလဲလဲလေ့ကျင့်မှု၊ audio/shadowing၊ retrieval practice နဲ့ review path ကို သုံးထားပါသည်။
 
 > **CEFR မှတ်ချက်:** Unit ပြီးရုံနဲ့ CEFR level အလိုအလျောက်မရပါ။ Level label များသည် target direction ဖြစ်ပြီး placement/progress/final performance test နဲ့သာ အတည်ပြုရမည်။ ပန်းတိုင်က accent တစ်မျိုးတည်းကို တုပခြင်းမဟုတ်ဘဲ clear, intelligible, flexible communication ဖြစ်သည်။
 
