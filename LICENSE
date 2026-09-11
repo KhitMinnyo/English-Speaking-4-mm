@@ -1,0 +1,37 @@
+# Licensing
+
+Copyright © 2026 Khit Minnyo
+
+This repository uses separate licenses for educational content and software code.
+
+## Educational content
+
+Unless otherwise noted, the curriculum, lessons, dialogues, exercises, assessments,
+audio scripts, guides, and other educational materials in this repository are
+licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International License (CC BY-NC-SA 4.0).
+
+See `LICENSE-CONTENT.md` and:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+SPDX-License-Identifier: CC-BY-NC-SA-4.0
+
+## Software code
+
+Any software source code, scripts, or utilities in this repository are licensed
+under the MIT License unless a file states otherwise.
+
+See `LICENSE-CODE.md`.
+
+SPDX-License-Identifier: MIT
+
+## Third-party material
+
+Third-party images, audio, fonts, quotations, trademarks, and other materials remain
+subject to their original licenses or terms. They are not relicensed by this notice.
+
+## Commercial permission
+
+The CC BY-NC-SA 4.0 license does not grant permission to use the educational content
+for commercial purposes. For separate commercial licensing, contact the copyright
+holder.
