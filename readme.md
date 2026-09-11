@@ -86,5 +86,5 @@ License scope အပြည့်အစုံကို [`LICENSE`](LICENSE) တ�
 
 ### Suggested attribution
 
-> English Speaking Mastery — Adult-Friendly Course by Khit Minnyo, licensed under CC BY-NC-SA 4.0. Source: [[repository URL](https://github.com/KhitMinnyo/English-Speaking-4-mm)]. Changes: [describe changes, if any].
+> English Speaking Mastery — Adult-Friendly Course by Khit Minnyo, licensed under CC BY-NC-SA 4.0. Source: [[English Speaking For Myanmars](https://github.com/KhitMinnyo/English-Speaking-4-mm)]. Changes: [describe changes, if any].
 > English Speaking Mastery — Adult-Friendly Course by Khit Minnyo, licensed under CC BY-NC-SA 4.0. Source: [repository URL]. Changes: [describe changes, if any].
