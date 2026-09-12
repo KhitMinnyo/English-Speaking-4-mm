@@ -6,6 +6,8 @@
 
 > **CEFR မှတ်ချက်:** ဒီ Level ပြီးရုံဖြင့် CEFR certificate မရပါ။ Target direction သာဖြစ်ပြီး placement/progress/final performance evidence နှင့် independent assessment ဖြင့်သာ အတည်ပြုရမည်။
 
+> **AI-first (v2):** ဒီ Level ကို partner/teacher မလိုဘဲ **ChatGPT/Gemini (live/voice mode)** နဲ့ တစ်ယောက်တည်း သင်နိုင်သည်။ ⭐ [`AI-Solo-Practice-Guide-v2.md`](../AI-Solo-Practice-Guide-v2.md) နှင့် [`AI-Chat-Prompt-Library.md`](../AI-Chat-Prompt-Library.md) ကို ဖတ်ပါ။
+
 ## Unit List
 
 | Unit | Topic |
@@ -31,6 +33,7 @@
 - Retrieval → controlled mouth practice → guided talk → information gap → free talk → recording အစဉ်လိုက်လုပ်ပါ။
 - Conversation-repair phrases၊ listener follow-ups နဲ့ role switching မဖြစ်မနေပါဝင်ရမည်။
 - Day 3, Day 7, Day 30 တွင် retrieval/re-recording လုပ်ပါ။
+- **AI-first:** Unit တစ်ခုစီကို partner မလိုဘဲ AI နဲ့ run သည် — Section တစ်ခုစီအတွက် [`../AI-Chat-Prompt-Library.md`](../AI-Chat-Prompt-Library.md) ကို သုံးပါ။
 
 ## Exit Performance
 
@@ -41,7 +44,7 @@
 - ပင်ပန်းလျှင် Easy Pace သုံးပြီး task ကို session ၂–၄ ခုခွဲပါ။
 - Burmese cue ကို ပထမ round သာသုံး၊ နောက် round တွင် cue words၊ နောက်ဆုံး English-only လုပ်ပါ။
 - စကားပြောနေချိန် အမှားအားလုံးမဖြတ်ပြင်ဘဲ task အပြီး အရေးကြီးဆုံး 1–2 ခုသာပြင်ပါ။
-- Pair မရှိလျှင် A/B role နှစ်ခုစလုံးကို အသံပြောင်း record လုပ်ပါ။
+- **လူအဖော်/partner မလိုတော့ပါ:** ChatGPT/Gemini (live/voice mode) ကို Card B အဖြစ်ထား၊ သင်က Card A။ Report လုပ်ရန် Start Prompt ကို `AI-Chat-Prompt-Library.md` မှယူပါ။
 
 ## Core Links
 
@@ -50,4 +53,7 @@
 - [Speaking Rubric](../Assessments/Speaking-Rubric.md)
 - [Progress & Final Tests](../Assessments/Progress-and-Final-Tests.md)
 - [Pronunciation Path](../Pronunciation-Path.md)
+- [AI Solo Practice Guide (v2)](../AI-Solo-Practice-Guide-v2.md) ⭐
+- [AI Chat Prompt Library](../AI-Chat-Prompt-Library.md) ⭐
+- [AI-First Unit Template v2](../Unit-Template-AI-v2.md)
 - [Supplementary Real-Life Units](../Supplementary-Real-Life-Units/readme.md)

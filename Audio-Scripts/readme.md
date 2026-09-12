@@ -1,6 +1,8 @@
 # Audio & Listening Library
 
-ဒီ folder တွင် Level 1–3 Unit ၃၆ ခုအတွက် printable/listenable scripts ရှိသည်။ Audio binary မပါသေးသော်လည်း teacher/partner သို့မဟုတ် ဖုန်း TTS ဖြင့် script ကို **Slow 0.75x** နှင့် **Natural 1.0x** ဖတ်/ဖွင့်နိုင်သည်။ Level 4 listening texts သည် Unit ဖိုင်တစ်ခုစီအတွင်း ပါရှိသည်။
+ဒီ folder တွင် Level 1–3 Unit ၃၆ ခုအတွက် printable/listenable scripts ရှိသည်။ Audio binary မလိုတော့ပါ — **ChatGPT/Gemini (voice mode) သို့မဟုတ် ဖုန်း TTS** က script ကို **Slow 0.75x** နှင့် **Natural 1.0x** ဖတ်/ဖွင့်ပေးနိုင်သည် (partner/teacher မလို)။ Level 4 listening texts သည် Unit ဖိုင်တစ်ခုစီအတွင်း ပါရှိသည်။
+
+**AI-first (v2):** ဖတ်ခိုင်းရန် prompt — “Read the script below aloud. First at slow/clear 0.75x, then at natural 1.0x. Do not show or summarize the text while I listen.” Prompt အပြည့်အစုံ: [`../AI-Chat-Prompt-Library.md`](../AI-Chat-Prompt-Library.md)။
 
 ## အသုံးပြုပုံ
 1. Transcript မကြည့်ဘဲ slow version နားထောင်ပြီး gist ပြောပါ။

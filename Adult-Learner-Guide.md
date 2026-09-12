@@ -18,7 +18,7 @@
 
 - **Easy:** တစ်ပတ် 4 ရက် × 15–20 min; unit တစ်ခု 2 ပတ်။
 - **Standard:** တစ်ပတ် 5 ရက် × 25–35 min; unit တစ်ခု 1 ပတ်။
-- **Intensive:** တစ်ပတ် 6 ရက် × 45–60 min + partner; unit တစ်ခု 1 ပတ်နှင့်ပိုသော free talk။
+- **Intensive:** တစ်ပတ် 6 ရက် × 45–60 min + AI live/voice interaction; unit တစ်ခု 1 ပတ်နှင့်ပိုသော free talk။
 
 ## Memory Support
 
@@ -36,13 +36,18 @@
 - မေ့သွားရင် repair phrase သုံးပါ: `Give me a moment.` `How can I say this?` `What I mean is ...`
 - Recording ဟောင်းမဖျက်ပါနှင့်—တိုးတက်မှု evidence ဖြစ်သည်။
 
-## Partner/Teacher Protocol
+## AI Partner/Coach Protocol (v2 — အဖော်မလိုတော့ပါ)
 
-1. ပြောသူကို အနည်းဆုံး 30–60 seconds မဖြတ်ဘဲပေးပါ။
-2. Follow-up question 2 ခုမေးပါ။
-3. Feedback ကို **Two Stars and One Step** နဲ့ပေးပါ—ကောင်းတာ 2 ခု၊ နောက်တစ်ခါပြင်ရန် 1 ခု။
+လူအဖော် ၂–၃ ယောက် မရှိလည်း လေ့ကျင့်လို့ရပါပြီ။ **ChatGPT သို့မဟုတ် Gemini (live/voice mode)** ကို ပြောဖော် + နောက်ခံဆရာအဖြစ်သုံးပါ။ `AI-Chat-Prompt-Library.md` ထဲက Start Prompt ကို paste ပြီး စတင်ပါ။
+
+1. AI ကို “မဖြတ်ဘဲ 30–60 seconds နားပေးပါ” လို့ မှာပါ။ (Start Prompt ထဲမှာပါပြီးသား)
+2. AI က follow-up question 1–2 ခုမေးပါလိမ့်မည်။
+3. Feedback ကို **Two Stars and One Step** နဲ့တောင်းပါ—ကောင်းတာ 2 ခု၊ နောက်တစ်ခါပြင်ရန် 1 ခု။
 4. Accent ကိုမဝေဖန်ဘဲ intelligibility, stress, key sound ကိုသာ ဦးစားပေးပါ။
-5. Hearing/vision/cognitive difficulty ရှိသူအတွက် transcript, replay, larger text နဲ့ response preparation time ပေးပါ။
+5. Hearing/vision/cognitive difficulty ရှိသူအတွက် transcript, replay, larger text နဲ့ response preparation time ပေးပါ—“Use larger text, slow TTS, allow response time.”
+6. AI က စာများလွန်းရင် “Less talk, more questions. Wait 45 seconds.” လို့ပြောပါ။ Correction မရပ်ရင် “Hold feedback until the end.” လို့ပြောပါ။
+
+> **မှတ်ချက်:** AI သည် interaction ကို အပြည့်အဝအစားထိုးသည်ဟု မဆိုလိုပါ။ Solo practice ကို ဖြစ်နိုင်စေခြင်းသာဖြစ်သည်။ လူနှင့်ပြောခွင့်ရလျှင် ပိုကောင်းသည်။ Role-play အတွက် AI က private info ကိုင်ထားပြီး သင်က မေး/clarify မလုပ်ဘဲ task မပြီးနိုင်ပါ။
 
 ## ခက်လွန်းတဲ့နေ့အတွက် Minimum Practice
 

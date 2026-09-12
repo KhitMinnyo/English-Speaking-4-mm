@@ -1,6 +1,6 @@
 # Supplementary Real-Life Speaking Units
 
-လိုအပ်သည့် Level နောက်တွင် ရွေးသင်နိုင်သော adult real-life modules ဖြစ်သည်။ Unit တစ်ခုစီကို 2–3 sessions ခွဲပြီး၊ pair မရှိလျှင် role နှစ်ခုစလုံးကို record လုပ်ပါ။
+လိုအပ်သည့် Level နောက်တွင် ရွေးသင်နိုင်သော adult real-life modules ဖြစ်သည်။ Unit တစ်ခုစီကို 2–3 sessions ခွဲနိုင်သည်။ **Partner မလိုတော့ပါ** — ChatGPT/Gemini (live/voice mode) ကို ဖော်ပြထားသည့် role ဖြင့်ထားပြီး တစ်ယောက်တည်း လေ့ကျင့်ပါ။ Prompt များကို [`../AI-Chat-Prompt-Library.md`](../AI-Chat-Prompt-Library.md) မှယူပါ။
 
 | Unit | Topic | Suggested point |
 |---|---|---|

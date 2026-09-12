@@ -9,7 +9,9 @@
 - Situations I most need:
 - Preferred session length: 15 / 25 / 40 minutes
 - Hearing, vision, mobility, memory or technology accommodation needed:
-- Partner/teacher:
+- AI tool used (ChatGPT / Gemini / other): 
+- Voice/live-chat mode available? (yes/no):
+- Partner/teacher (optional, if any):
 
 ## Unit tracker
 

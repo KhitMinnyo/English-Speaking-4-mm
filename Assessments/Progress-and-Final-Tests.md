@@ -4,18 +4,20 @@
 
 Level တစ်ခုစီမှာ Unit 1 မတိုင်မီ baseline, Unit 4/8 အပြီး progress check, Unit 12 အပြီး level-end test လုပ်ပါ။ **တစ်ခါတည်းကောင်းခြင်းမဟုတ်ဘဲ recordings အနည်းဆုံး 3 ခု** ဖြင့် improvement ကိုကြည့်ပါ။
 
+**AI-first (v2):** interaction/role-play အပိုင်းအားလုံးကို ChatGPT/Gemini (live/voice mode) နှင့် တစ်ယောက်တည်း လုပ်နိုင်သည် — examiner မလိုပါ။ Prompt များကို [`../AI-Chat-Prompt-Library.md`](../AI-Chat-Prompt-Library.md) မှယူပါ။ AI က private card ကိုင်ထားပြီး သင်က မေး/clarify/confirm မလုပ်ဘဲ task မပြီးနိုင်အောင် ဖန်တီးခိုင်းပါ။
+
 ## Unit 4 checkpoint (10–15 min)
 
 1. Units 1–4 chunks ၅ ခုကို cue မကြည့်ဘဲ ပြော
 2. familiar topic 2-minute recording
-3. partner နဲ့ 3-minute information-gap/role-play
+3. **AI နှင့်** 3-minute information-gap/role-play (AI = Card B, hidden info)
 4. rubric + Keep/Try/Chunk feedback
 
 ## Unit 8 checkpoint (15–20 min)
 
 1. unfamiliar prompt အတွက် preparation 60 sec, talk 3 min
-2. problem-solving interaction 5 min
-3. audio/script အသစ်တစ်ခုကို retell
+2. **AI နှင့်** problem-solving interaction 5 min
+3. audio/script အသစ်တစ်ခုကို retell (AI ဖတ်ပေး သို့မဟုတ် repository script)
 4. Unit 1–8 recycled chunks ၈ ခုထဲက ၅ ခု natural အောင်သုံး
 
 ## Level-end tests

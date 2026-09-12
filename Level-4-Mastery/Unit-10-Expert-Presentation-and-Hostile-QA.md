@@ -43,10 +43,10 @@ A: Taken together, we agree on monitoring but differ on acceptable risk.
 B: Yes—that is a fair synthesis.
 
 ## Controlled Mouth Practice
-Precision chunks ဆယ်ခုကို (a) formal panel, (b) colleague, (c) skeptical friend register သုံးမျိုးဖြင့် ပြောင်းပြောပါ။ Partner က claim တစ်ခုပေးတိုင်း 10 seconds အတွင်း qualification + example + implication ဖြင့်တုံ့ပြန်ပါ။
+Precision chunks ဆယ်ခုကို (a) formal panel, (b) colleague, (c) skeptical friend register သုံးမျိုးဖြင့် ပြောင်းပြောပါ။ AI က claim တစ်ခုပေးတိုင်း 10 seconds အတွင်း qualification + example + implication ဖြင့်တုံ့ပြန်ပါ။
 
 ## Guided Analysis
-**a proposal challenged by a panel** အတွက် stakeholder လေးဖွဲ့၊ competing values သုံးခု၊ evidence limitation နှစ်ခု၊ unintended consequence နှစ်ခုရေးပါ။ Notes ဖြင့် 6 မိနစ် analysis ပြောပြီး listener follow-up ငါးခုကို ဖြေပါ။
+**a proposal challenged by a panel** အတွက် stakeholder လေးဖွဲ့၊ competing values သုံးခု၊ evidence limitation နှစ်ခု၊ unintended consequence နှစ်ခုရေးပါ။ Notes ဖြင့် 6 မိနစ် analysis ပြောပြီး AI follow-up ငါးခုကို ဖြေပါ။
 
 ## Information Gap / Mediation
 - **Role A:** efficiency နှင့် urgency evidence ရှိသော်လည်း equity data မရှိ။
@@ -62,7 +62,7 @@ Precision chunks ဆယ်ခုကို (a) formal panel, (b) colleague, (c) s
 တစ် round တွင် အနည်းဆုံး သုံးခုသုံးပါ။
 
 ## Spontaneous Pressure Round
-Topic အသစ်ကို 60 seconds ပြင်ဆင်ပြီး 5 မိနစ်ပြောပါ။ Partner က interruption, counterexample, definition request, hostile question တစ်မျိုးစီပေးရမည်။ Learner သည် tone မပျက်ဘဲ answer, bridge, concede သို့မဟုတ် challenge လုပ်ရမည်။
+Topic အသစ်ကို 60 seconds ပြင်ဆင်ပြီး 5 မိနစ်ပြောပါ။ AI က interruption, counterexample, definition request, hostile question တစ်မျိုးစီပေးရမည်။ Learner သည် tone မပျက်ဘဲ answer, bridge, concede သို့မဟုတ် challenge လုပ်ရမည်။
 
 ## Recording & Feedback
 8–12 မိနစ် independent response နဲ့ 20 မိနစ် interaction ကို record လုပ်ပါ။ Speaking Rubric criteria အားလုံးကို self + peer score ပေးပြီး transcript 2 မိနစ်စာရေးပါ။ Repetition/filler, vague word, missed nuance ကို mark လုပ်ပြီး revised take ပြန်လုပ်ပါ။
@@ -78,3 +78,47 @@ Topic အသစ်ကို 60 seconds ပြင်ဆင်ပြီး 5 မ�
 - [ ] Clarification နှင့် challenge ကြားတွင် 20 မိနစ် interaction ဆက်နိုင်သည်။
 - [ ] Unsupported certainty ကိုရှောင်ပြီး evidence limitation ပြနိုင်သည်။
 - [ ] Rubric criterion တစ်ခုမှ 3 အောက်မရှိဘဲ revision evidence ရှိသည်။
+
+---
+
+## AI Solo Upgrade (v2) — အဖော်မလိုဘဲ Unit 10: Expert Presentation & Challenging Q&A ကို ChatGPT/Gemini နဲ့လုပ်ပါ
+
+> 👤➡️🤖 **Partner/teacher ၂–၃ ယောက် မလိုတော့ပါ။** ChatGPT သို့မဟုတ် Gemini (live/voice mode) ကို စကားပြောဖော် + နောက်ခံဆရာအဖြစ်သုံးပြီး ဒီ unit ကို **တစ်ယောက်တည်း** လေ့ကျင့်ပါ။ Section တွေကို မလျှော့ပါနှင့်—role ကို AI က ယူပေးသည်။
+
+**၁။ Start Prompt** (chat အသစ်တွင် အရင်ဆုံး paste လုပ်ပါ):
+```
+You are my English speaking partner and coach for adult learners. Rules:
+- Interaction-first: keep turns short; ask 1-2 follow-up questions every turn.
+- No mid-speech correction: give feedback only AFTER each task using "Two Stars and One Step".
+- Keep replies under 40 words. Clear natural English; brief Burmese clarification only if I type "မြန်မာ".
+- For role-plays, keep your private information hidden until I ask the right questions.
+Context: Level = Level 4, Unit = "Unit 10: Expert Presentation & Challenging Q&A", Topic = Unit 10: Expert Presentation & Challenging Q&A. My goal: <my exit task>.
+Start with a 2-minute warm-up quiz using 3 chunks from the previous unit. Speak less than me.
+```
+
+**၂။ Unit Runner Prompt** (ဒီ unit ရဲ့ partner-dependent အပိုင်းတွေကို AI နဲ့ run ရန်):
+```
+Run this unit with me SOLO. Unit = "Unit 10: Expert Presentation & Challenging Q&A".
+1) Useful chunks: quiz me on 8-12 chunks from Burmese style cues only; hide text.
+2) Language point: teach 1 rule with 3-5 examples; save my errors for post-task feedback.
+3) Mouth practice: 10 rapid prompts, target < 1.5s latency; at the end mark my top-5 trouble items.
+4) Listening: read a short script slowly once, ask 1 gist + 3 detail questions, then show the transcript.
+5) Guided speaking: give 3 cues one at a time; wait 45-60s each; then ask 2 personal follow-ups.
+6) Role-play / information gap: you hold the partner's private card; I must ask/clarify/confirm to reach <my exit task>; keep your info hidden.
+7) Recording & feedback: give me a 60-120s prompt, then Two Stars and One Step + a compact 4-criterion rubric (1-5).
+End by giving a 3/7/30-day retrieval plan.
+```
+
+**၃။ လူနှစ်ယောက် ➜ AI အစားထိုး မြေပုံ**
+| မူရင်း (partner လိုသည်) | AI-first အစားထိုး |
+|---|---|
+| Partner က follow-up မေး | AI က တစ်ကြိမ်လျှင် follow-up 1–2 ခုမေး |
+| Partner နှစ်ယောက်နဲ့ role-play | AI က Card B ကိုင်၊ သင်က Card A (info hidden) |
+| Class/partner survey | AI က လူအမျိုးမျိုးဟန်ဆောင်၍ အဖြေပေးသည် |
+| Partner ကို recording ပြ | AI ကို record/transcript ပြပြီး rubric feedback တောင်း |
+| Teacher က correction/timing | Mode: Fluency / Accuracy / Mixed + "Timer: N" ဖြင့် ကိုယ်တိုင်ထိန်း |
+
+**၄။ Solo session flow (20 မိနစ်):** Warm-up 2 → Listen 5 → Mouth 5 → Speak 5 → Recall 3။
+**၅။ ခက်တဲ့နေ့ minimum:** audio 1 မိနစ် → shadow 3 ကြောင်း → ကိုယ့်အကြောင်း 3 ကြောင်း record။
+
+အသေးစိတ် prompt အားလုံး — [`AI-Chat-Prompt-Library.md`](../AI-Chat-Prompt-Library.md) နှင့် session လုပ်နည်း — [`AI-Solo-Practice-Guide-v2.md`](../AI-Solo-Practice-Guide-v2.md)။

@@ -6,7 +6,7 @@ Course မစခင် လက်ရှိ speaking/listening ability ကို b
 
 ## Part A — Speaking (20–30 minutes)
 
-Task တစ်ခုစီကို recording ခွဲသိမ်းပါ။ မဖြေနိုင်လျှင် မကျော်မဖြစ်မဟုတ်ပါ။
+Task တစ်ခုစီကို recording ခွဲသိမ်းပါ။ မဖြေနိုင်လျှင် မကျော်မဖြစ်မဟုတ်ပါ။ **AI-first:** role-play/interaction အတွက် ChatGPT/Gemini ကို partner အဖြစ်သုံးနိုင်သည် — Start Prompt ကို [`../AI-Chat-Prompt-Library.md`](../AI-Chat-Prompt-Library.md) မှယူပါ။
 
 1. **Personal introduction (1 minute):** name, home, work/family, reason for learning
 2. **Daily life (2 minutes):** typical weekday and yesterday
@@ -17,9 +17,9 @@ Task တစ်ခုစီကို recording ခွဲသိမ်းပါ။ 
 
 Task 1–2 မှ စတင်ပြီး learner အလွန်ပင်ပန်း/မလုပ်နိုင်ပါက ရပ်နိုင်သည်။ Task တစ်ခုစီကို `Speaking-Rubric.md` ဖြင့် score ပေးပါ။
 
-## Part B — Listening (teacher/partner script)
+## Part B — Listening (AI read-aloud — solo)
 
-ဖတ်ပေးသူက `Placement-Listening-Script.md` ကို learner မမြင်အောင် natural speed ဖြင့် နှစ်ကြိမ်ဖတ်ပါ။ Learner က:
+`Placement-Listening-Script.md` ကို **ChatGPT/Gemini (voice mode) သို့မဟုတ် TTS** က natural speed ဖြင့် နှစ်ကြိမ်ဖတ်ပေးပါ။ Prompt: “Read this script aloud at natural speed, twice, with a 30-second pause between. Do not show me the text.” ဖတ်ပေးသူ (လူ) ရှိပါကလည်း အသုံးပြုနိုင်သည်။ Learner က:
 
 - first listen: main idea တစ်ကြောင်း
 - second listen: who/what/when/problem/decision ကို မှတ်

@@ -1,6 +1,8 @@
 # Listening Lab — Unit 02: Debate & Persuasion
 
-## Teacher/TTS Directions
+## How to run this lab (AI read-aloud — solo)
+> 🤖 **Partner/teacher မလိုပါ။** ChatGPT/Gemini (voice mode) သို့မဟုတ် TTS ကို အောက်ပါ script ကို အသံထွက်ဖတ်ခိုင်းပါ။ Prompt: “Read the script below aloud. First at slow/clear 0.75x, then at natural 1.0x. Do not show or summarize the text while I listen.” လူဖတ်ပေးသူရှိပါကလည်း အသုံးပြုနိုင်သည်။
+
 Slow version ကို clear pauses ဖြင့် 0.75x ခန့်ဖတ်ပါ။ Natural version ကို စကားစုများချိတ်ပြီး 1.0x ခန့်ဖတ်ပါ။ ပထမနှစ်ကြိမ် transcript မပြပါနှင့်။
 
 ## Pre-listening

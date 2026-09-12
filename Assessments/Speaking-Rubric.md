@@ -2,7 +2,7 @@
 
 ## အသုံးပြုပုံ
 
-Speaking task တစ်ခုစီကို criterion ၆ ခုဖြင့် **1–5 မှတ်** ပေးပါ။ စုစုပေါင်း 30 မှတ်။ ကိုယ်တိုင်စစ်ပါက recording ကို နှစ်ကြိမ်နားထောင်ပြီး evidence တစ်ကြောင်းရေးပါ။ Partner/teacher ရှိပါက score နှစ်ခု၏ ပျမ်းမျှကိုယူပါ။
+Speaking task တစ်ခုစီကို criterion ၆ ခုဖြင့် **1–5 မှတ်** ပေးပါ။ စုစုပေါင်း 30 မှတ်။ ကိုယ်တိုင်စစ်ပါက recording ကို နှစ်ကြိမ်နားထောင်ပြီး evidence တစ်ကြောင်းရေးပါ။ **AI-first (v2):** ChatGPT/Gemini ကို rater အဖြစ်သုံးပါ — Prompt: “Rate my recording on Task achievement, Fluency, Accuracy, Vocabulary & chunks, Pronunciation, Interaction (1–5 each). Give evidence, then Two Stars and One Step. Under 120 words.” Partner/teacher ရှိပါက AI score နှင့် ပျမ်းမျှယူပါ။ Self-score နှင့် AI score ကွာလျှင် recording ကို ပြန်နားထောင်ပြီး evidence ဖြင့်ဆုံးဖြတ်ပါ။
 
 | Criterion | 1 — စတင် | 2 — အကန့်အသတ်ရှိ | 3 — လုပ်ဆောင်နိုင် | 4 — ကောင်းမွန် | 5 — အလွန်ကျွမ်းကျင် |
 |---|---|---|---|---|---|
