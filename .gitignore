@@ -1,0 +1,11 @@
+# Local tooling / agent memory (do not commit)
+.kode/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editor noise
+.vscode/
+.idea/
+*.swp
