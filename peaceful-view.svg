@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#aee3f0"/>
+      <stop offset="55%" stop-color="#eaf7f5"/>
+      <stop offset="100%" stop-color="#fdf3e0"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8fc7d8"/>
+      <stop offset="100%" stop-color="#5b9db3"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fff7d6"/>
+      <stop offset="60%" stop-color="#ffe9a3"/>
+      <stop offset="100%" stop-color="#ffd66b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="m1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7a9fb5"/>
+      <stop offset="100%" stop-color="#5c8097"/>
+    </linearGradient>
+    <linearGradient id="m2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#5c8097"/>
+      <stop offset="100%" stop-color="#46667c"/>
+    </linearGradient>
+    <linearGradient id="hill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#9cc37f"/>
+      <stop offset="100%" stop-color="#6ea15a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- sky -->
+  <rect width="1200" height="800" fill="url(#sky)"/>
+
+  <!-- sun -->
+  <circle cx="880" cy="200" r="150" fill="url(#sun)"/>
+  <circle cx="880" cy="200" r="60" fill="#fff2c0"/>
+
+  <!-- clouds -->
+  <g fill="#ffffff" opacity="0.85">
+    <ellipse cx="260" cy="140" rx="90" ry="28"/>
+    <ellipse cx="330" cy="125" rx="70" ry="24"/>
+    <ellipse cx="200" cy="125" rx="55" ry="20"/>
+    <ellipse cx="560" cy="100" rx="80" ry="22"/>
+    <ellipse cx="630" cy="90" rx="60" ry="18"/>
+    <ellipse cx="500" cy="90" rx="45" ry="16"/>
+  </g>
+
+  <!-- far mountains -->
+  <polygon points="0,460 180,240 360,460" fill="url(#m1)"/>
+  <polygon points="260,460 460,210 660,460" fill="url(#m2)"/>
+  <polygon points="560,460 760,260 980,460" fill="url(#m1)"/>
+  <polygon points="880,460 1050,280 1200,460" fill="url(#m2)"/>
+
+  <!-- snow caps -->
+  <g fill="#f4f9fb">
+    <polygon points="180,240 150,282 210,282"/>
+    <polygon points="460,210 428,258 492,258"/>
+    <polygon points="760,260 732,300 788,300"/>
+    <polygon points="1050,280 1022,320 1078,320"/>
+  </g>
+
+  <!-- rolling hills -->
+  <ellipse cx="300" cy="520" rx="560" ry="160" fill="url(#hill)"/>
+  <ellipse cx="980" cy="540" rx="520" ry="150" fill="#7cb268"/>
+
+  <!-- water -->
+  <rect y="520" width="1200" height="280" fill="url(#water)"/>
+
+  <!-- sun reflection -->
+  <g opacity="0.5" fill="#ffe9a3">
+    <ellipse cx="880" cy="560" rx="60" ry="8"/>
+    <ellipse cx="880" cy="600" rx="40" ry="6"/>
+    <ellipse cx="880" cy="640" rx="26" ry="5"/>
+  </g>
+
+  <!-- gentle water ripples -->
+  <g stroke="#ffffff" stroke-width="2" opacity="0.25" fill="none">
+    <path d="M 120 580 Q 160 575 200 580"/>
+    <path d="M 420 620 Q 470 615 520 620"/>
+    <path d="M 700 660 Q 750 655 800 660"/>
+    <path d="M 200 700 Q 260 695 320 700"/>
+    <path d="M 900 690 Q 950 685 1000 690"/>
+  </g>
+
+  <!-- tree on left hill -->
+  <g>
+    <rect x="168" y="360" width="16" height="90" rx="4" fill="#7a5230"/>
+    <ellipse cx="176" cy="330" rx="60" ry="52" fill="#3e7a4f"/>
+    <ellipse cx="176" cy="310" rx="42" ry="40" fill="#4c9058"/>
+  </g>
+
+  <!-- tree on right hill -->
+  <g>
+    <rect x="1018" y="400" width="14" height="80" rx="4" fill="#7a5230"/>
+    <ellipse cx="1025" cy="372" rx="52" ry="46" fill="#3e7a4f"/>
+    <ellipse cx="1025" cy="354" rx="36" ry="34" fill="#4c9058"/>
+  </g>
+
+  <!-- small grass tufts -->
+  <g fill="#4c9058">
+    <path d="M 420 505 q 3 -14 6 0 q 3 -14 6 0 z"/>
+    <path d="M 700 515 q 3 -12 6 0 q 3 -12 6 0 z"/>
+    <path d="M 140 512 q 3 -12 6 0 q 3 -12 6 0 z"/>
+  </g>
+
+  <!-- birds -->
+  <g stroke="#4a5d6a" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M 620 170 q 10 -10 20 0 q 10 -10 20 0"/>
+    <path d="M 700 150 q 8 -8 16 0 q 8 -8 16 0"/>
+    <path d="M 540 190 q 8 -8 16 0 q 8 -8 16 0"/>
+  </g>
+</svg>
